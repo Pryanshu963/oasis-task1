@@ -1,0 +1,75 @@
+   *{
+    margin: 0px;
+    padding: 0px;
+   }
+   nav{
+    display: flex;
+    width: 1520px;
+    height: 45px;
+    background-color:wheat;
+    color: black;
+    
+    
+   }
+nav ul{
+    display: flex;
+  
+    
+
+}
+nav ul li{
+  margin: 10px;
+  padding-right: 90px;
+  list-style: none;
+  
+
+}
+.search{
+  margin: 4px;
+  padding: 6px;
+}
+.container{
+  display: flex;
+  background-image: url(background.jpg);
+  height:746px;
+  width: 1520px;
+}
+.gym{
+  margin-top: 145px;
+  margin-left: 150px;
+  text-decoration:burlywood;
+  color: chocolate;
+  
+}
+.health{
+  margin-top: 35px;
+  margin-left: 150px;
+}
+p1{
+  font-size: xx-large;
+color: red;
+}
+h1{
+ color: red;
+}
+.motive{
+  margin-top: 35px;
+  margin-left: 130px;
+  color: red;
+  font-size: larger;
+}
+.fees{
+  margin-top: 35px;
+  margin-left: 1150px;
+  font-size: xx-large;
+  color:red;
+  background-color: black;
+}
+.get{
+  margin-top: 135px;
+  background-color: black;
+  height: fit-content;
+  font-size: large;
+  color:black;
+
+}
